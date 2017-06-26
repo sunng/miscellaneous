@@ -10,4 +10,8 @@ public class Bean {
 
     private String sfield;
     private int ifield;
+
+    public static void main(String[] args) {
+
+    }
 }

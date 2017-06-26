@@ -150,6 +150,12 @@
             <version>1.16.10</version>
         </dependency>
 
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-core</artifactId>
+            <version>1.2.2</version>
+        </dependency>
+
     </dependencies>
 
 </project>

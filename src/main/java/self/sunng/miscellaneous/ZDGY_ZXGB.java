@@ -7,6 +7,7 @@ package self.sunng.miscellaneous;
 public class ZDGY_ZXGB {
 
     public static void main(String[] args) {
+
         // System.out.println(getBigDiv(40, 56));
         // System.out.println(getSmallMul(20, 12));
         int[] num = {12, 20, 8, 3, 7, 38};
